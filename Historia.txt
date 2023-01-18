@@ -10,3 +10,5 @@ queremos ver los cambios
 queremos probar como funciona
 
 este es para probar checkout
+
+vamos a probar lo aprendido
