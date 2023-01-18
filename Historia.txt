@@ -18,3 +18,5 @@ estamos repasando con freddy los cambios
 revisando el error arrojado por vi
 
 volviendolo a CHECAR
+
+parece ser  que era la actualizacion lo que hacia falta
